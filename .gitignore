@@ -1,0 +1,21 @@
+# Exclude virtual environment
+venv/
+
+# Exclude PyCharm project settings
+.idea/
+
+# Exclude compiled Python files
+__pycache__/
+*.pyc
+
+# Exclude sensitive files
+.env
+!.env.example
+
+# Exclude logs and temporary files
+*.log
+*.tmp
+
+# Exclude system files
+.DS_Store
+Thumbs.db
