@@ -1,0 +1,4 @@
+# Core dependencies
+psycopg2-binary==2.9.7  # For PostgreSQL database connections
+pytz==2023.3            # For handling time zones
+python-dotenv==1.0.0    # For loading environment variables from a .env file
